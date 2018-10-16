@@ -1,0 +1,29 @@
+TARJETAS DE PRUEBA CREDITO
+
+Exito (VISA): 
+
+PAN:		4051885600446623
+
+FECHA EXP: 	Cualquiera superior al dia de hoy
+CVV:		123
+
+Fracaso (MASTERCARD): 
+
+PAN:		5186059559590568
+
+FECHA EXP: 	Cualquiera superior al dia de hoy
+CVV:		123
+
+
+TARJETAS DE PRUEBA DEBITO
+Exito	:	4051885600446623
+
+Fracaso	:	5186059559590568
+
+
+
+Endpoints integración:
+Normal - Mall - Diferida (Solo Autorizacion): https://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSWebpayService?wsdl
+Oneclick: https://webpay3gint.transbank.cl/webpayserver/wswebpay/OneClickPaymentService?wsdl
+Completa: https://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSCompleteWebpayService?wsdl
+Anulacion - Diferida (Solo Captura): https://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSCommerceIntegrationService?wsdl
