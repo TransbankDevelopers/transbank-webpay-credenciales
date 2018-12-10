@@ -12,7 +12,7 @@ credenciales.
 El código del comercio corresponde al nombre de los archivos. 
 
 Por ejemplo, en el directorio `Webpay Plus - CLP` encontrarás las credenciales
-para Webpay Plus "normal". En `597020000540.crt`está el certificado público y
+para Webpay Plus "normal". En `597020000540.crt` está el certificado público y
 en `597020000540.key` está la llave privada. Por ende, el código de comercio es
 `597020000540`.
 

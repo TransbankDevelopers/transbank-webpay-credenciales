@@ -22,7 +22,7 @@ Fracaso	:	5186059559590568
 
 
 
-Endpoints integración:
+Endpoints integraciÃ³n:
 Normal - Mall - Diferida (Solo Autorizacion): https://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSWebpayService?wsdl
 Oneclick: https://webpay3gint.transbank.cl/webpayserver/wswebpay/OneClickPaymentService?wsdl
 Completa: https://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSCompleteWebpayService?wsdl
