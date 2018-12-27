@@ -1,0 +1,20 @@
+.vscode
+.idea
+
+## OSX
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+## Linux
+*~
+
+## Windows
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
