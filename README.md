@@ -6,6 +6,6 @@ Este repositorio contiene:
 respuestas de los servicios en producción.
 
 - Los [certificados y códigos de comercio que puedes usar para probar
-  rápidamente tu integración](./integracion) Webpay contra tiendas genéricas
+  rápidamente tu integración](./integracion) Webpay o PatPass-by-Webpay contra tiendas genéricas
   creadas especialmente para estos fines.
 
