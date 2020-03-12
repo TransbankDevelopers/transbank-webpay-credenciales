@@ -3,3 +3,5 @@ El archivo 597020000540.key es la llave privada, que es usada para firmar los re
 El archivo 597020000540.crt es el certificado público que esta previamente cargado en el ambiente de integración.
 
 El archivo tbk.pem es el certificado público de Transbank para su ambiente de integración.
+
+La clave del certificado p12 es 12345678
