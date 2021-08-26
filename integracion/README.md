@@ -16,6 +16,8 @@ para Webpay Plus "normal". En `597020000540.crt` está el certificado público y
 en `597020000540.key` está la llave privada. Por ende, el código de comercio es
 `597020000540`.
 
+Además podrás encontrar en esta carpeta el certificado público de Integración `certificado-publico-integracion.crt`.
+
 Nota: Los SDKs [ya traen muchos de estos certificados y códigos de comercio
 pre-configurados para los casos más
 comunes](https://transbankdevelopers.cl/referencia/webpay#credenciales-del-comercio)
